@@ -4,3 +4,4 @@
 3. 地图上的石头，洞，箱子，钥匙，门在哪个位置
 4. modify
 5. practice
+6. third practice
